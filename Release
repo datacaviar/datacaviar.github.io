@@ -1,8 +1,0 @@
-Origin: Datacaviar
-Label: Datacaviar
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: Datacaviar - This is a collection of my favorite repos.
